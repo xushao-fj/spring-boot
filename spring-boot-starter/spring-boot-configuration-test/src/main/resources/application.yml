@@ -1,0 +1,4 @@
+xsm:
+  hello:
+    prefix: spring-boot
+    suffix: study
